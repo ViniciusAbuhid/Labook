@@ -9,7 +9,7 @@
 Projeto semanas n°18 e 19: LaBook
 </h1>
 
-<p align="center">Rede Social, que embora possa parecer diferente, é uma ideia totalmente original. A aplicação busca prmover uma interação entre os seus usuários que podem se seguir, postar publicações diversar e interagir nas publicações uns dos outros</p>
+<p align="center">Rede Social, que embora possa parecer diferente, é uma ideia totalmente original. A aplicação busca promover uma interação entre os seus usuários que podem se seguir, postar publicações diversas e interagir nas publicações uns dos outros</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
